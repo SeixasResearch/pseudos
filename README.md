@@ -1,3 +1,4 @@
-Pseudopotentials files (*.psf) for SIESTA
+# Pseudopotentials files for SIESTA
 
-GGA-PBE functional
+Filetype: psf
+xc-functional:  GGA/PBE
